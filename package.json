@@ -1,0 +1,19 @@
+{
+  "name": "eppr-randomnode",
+  "version": "1.0.0",
+  "description": "generador de numeros aleatorios en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GClau/eppr-randomNode.git"
+  },
+  "author": "clnr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GClau/eppr-randomNode/issues"
+  },
+  "homepage": "https://github.com/GClau/eppr-randomNode#readme"
+}
